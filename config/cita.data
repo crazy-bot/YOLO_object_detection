@@ -1,0 +1,5 @@
+classes= 3
+train=/home/guha/cita/traincita.txt
+valid=/home/guha/cita/testcita.txt
+names=cita.names
+backup=backup/

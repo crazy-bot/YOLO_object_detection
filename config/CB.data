@@ -1,0 +1,5 @@
+classes= 1
+train=/data/Guha/construction/Data/mydata/CBtrain.txt
+valid=/data/Guha/construction/Data/mydata/CBtest.txt
+names=CB.names
+backup=backup/
